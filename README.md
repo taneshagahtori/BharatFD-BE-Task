@@ -153,4 +153,8 @@ docker build -t faq-api .
 ### 2️⃣ Run the Container
 ```bash
 docker run -p 8000:8000 faq-api
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> c15f3fd (first commit)
